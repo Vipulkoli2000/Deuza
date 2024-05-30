@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31.99" height="31.99" viewBox="0 0 31.99 31.99" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px">
+  <defs speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px">
+    <clipPath id="clip-path" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px">
+      <rect x="1" y="1" width="31.99" height="31.99" fill="none" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px"></rect>
+    </clipPath>
+  </defs>
+  <g id="Groupe_défilant_1" data-name="Groupe défilant 1" transform="translate(-1 -1)" clip-path="url(#clip-path)" style="isolation: isolate" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px">
+    <g id="Groupe_800" data-name="Groupe 800" transform="translate(16913.752 3971.55)" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px">
+      <path id="Tracé_1215" data-name="Tracé 1215" d="M1515.115,77.741l-6.625-6.625a11.107,11.107,0,1,0-1.569,1.57l6.624,6.625a1.11,1.11,0,0,0,1.57-1.57M1491.024,64.1a8.878,8.878,0,1,1,8.878,8.879,8.887,8.887,0,0,1-8.878-8.879" transform="translate(-18398.557 -4020.55)" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px"></path>
+    </g>
+  </g>
+</svg>

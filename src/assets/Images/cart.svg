@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31.99" height="31.99" viewBox="0 0 31.99 31.99" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px">
+  <defs speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px">
+    <clipPath id="clip-path" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px">
+      <rect x="1" y="1" width="31.99" height="31.99" fill="none" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px"></rect>
+    </clipPath>
+  </defs>
+  <g id="Groupe_défilant_2" data-name="Groupe défilant 2" transform="translate(-1 -1)" clip-path="url(#clip-path)" style="isolation: isolate" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px">
+    <g id="Groupe_798" data-name="Groupe 798" transform="translate(16776.559 3973.55)" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px">
+      <path id="Tracé_1212" data-name="Tracé 1212" d="M1632.757,73.621a2.379,2.379,0,1,0,2.379-2.38,2.381,2.381,0,0,0-2.379,2.38m3.172,0a.793.793,0,1,1-.793-.794.794.794,0,0,1,.793.794" transform="translate(-18398.557 -4020.55)" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px"></path>
+      <path id="Tracé_1213" data-name="Tracé 1213" d="M1647.032,73.621A2.379,2.379,0,1,0,1644.653,76a2.383,2.383,0,0,0,2.379-2.379m-3.172,0a.793.793,0,1,1,.793.793.8.8,0,0,1-.793-.793" transform="translate(-18398.557 -4020.55)" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px"></path>
+      <path id="Tracé_1214" data-name="Tracé 1214" d="M1630.457,54.586c.1.936,1.192,11.333,1.362,12.939a2.373,2.373,0,0,0,2.366,2.13h12.359a2.394,2.394,0,0,0,2.327-1.882l1.905-8.889a1.587,1.587,0,0,0-1.552-1.918H1632.3l-.342-3.255a.794.794,0,0,0-.789-.711h-2.38a.793.793,0,0,0,0,1.586Zm18.767,3.966-1.9,8.889a.8.8,0,0,1-.777.628h-12.358a.792.792,0,0,1-.789-.71l-.927-8.807Z" transform="translate(-18398.557 -4020.55)" speechify-initial-font-family="Figtree, sans-serif" speechify-initial-font-size="15px"></path>
+    </g>
+  </g>
+</svg>
